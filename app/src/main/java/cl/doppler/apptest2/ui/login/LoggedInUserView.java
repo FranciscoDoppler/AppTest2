@@ -1,4 +1,4 @@
-package cl.doppler.apptest2.ui.login;
+package  cl.doppler.apptest2.ui.login;
 
 /**
  * Class exposing authenticated user details to the UI.
